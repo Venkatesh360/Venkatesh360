@@ -28,7 +28,7 @@
     <img width="15"  src="https://img.icons8.com/ios-filled/50/FFFFFF/stop.png" alt="stop"/>
   <img  height="70" src="https://img.icons8.com/color/144/mysql-logo.png" alt="mysql-logo"/>
     <img width="15"  src="https://img.icons8.com/ios-filled/50/FFFFFF/stop.png" alt="stop"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkN8yHXd01HD1fLm74F8dVm9ZAR1Pzu2lorw&s" alt="Icon" height="70">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkN8yHXd01HD1fLm74F8dVm9ZAR1Pzu2lorw&s" alt="Icon" width="100">     
     <img width="15"  src="https://img.icons8.com/ios-filled/50/FFFFFF/stop.png" alt="stop"/>
   <img src="https://cdn.worldvectorlogo.com/logos/flask.svg" alt="Flask" height="70">
     <img width="15" height="20"  src="https://img.icons8.com/ios-filled/50/FFFFFF/stop.png" alt="stop"/>
