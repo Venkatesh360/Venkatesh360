@@ -41,14 +41,13 @@
 
 ## 📊 GitHub Stats
 
-![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkatesh360&show_icons=true&theme=radical&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh360&layout=compact&theme=radical)
 
 ---
 
 ## 📬 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-Venkatesh%20Kashyap-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-kashyap23)  
+[![LinkedIn](https://img.shields.io/badge/-Venkatesh%20Kashyap-blue?style=flat&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/venkatesh-kashyap23](https://www.linkedin.com/in/venkatesh-kashyap-3628481b1/))  
 [![Gmail](https://img.shields.io/badge/-venkateshkashyap23@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:venkateshkashyap23@gmail.com)
 
 ---
