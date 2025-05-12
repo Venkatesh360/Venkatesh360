@@ -1,46 +1,57 @@
-# 👋 Hey, I'm Venkatesh Kashyap
+# Hey there, I'm Venkatesh Kashyap 👋
 
-I'm a self-taught developer passionate about building impactful software solutions. My journey has led me to proficiency in:
-
-- 💻 **Languages**: C++, Python, JavaScript, SQL
-- 🌐 **Web Development**: Next.js (preferred over plain React)
-- 🛠️ **Tools & Frameworks**: Visual Studio, Windows Biometric Framework, DLL development
-
-Currently, I'm seeking opportunities as a **Python Developer** to contribute to innovative projects and continue my growth in the tech industry.
+🎯 **Self-taught Software Developer**  
+📡 **Electronics & Telecommunication Graduate**  
+💻 Building full-stack apps with **Next.js**, **Firebase**, and **Python**  
+🔍 Obsessed with solving real-world problems through code
 
 ---
 
-## 🚀 Projects & Learnings
+## 🚀 Quick Overview
 
-### 🔐 [IndexCryptogram](https://github.com/Venkatesh360/IndexCryptogram)
-Utilized the Windows Biometric Framework to extract fingerprint data. Employed Python for image processing and feature extraction, enhancing my understanding of biometric systems.
-
-### 🔒 [Cryptography Library](https://github.com/Venkatesh360/Cryptography-Library)
-Developed DLLs in Visual Studio implementing various cryptographic algorithms, including MAC, symmetric/asymmetric encryption, and hashing. This project deepened my knowledge of security protocols and system-level programming.
-
-### 🎬 [Hulu Clone Frontend](https://github.com/Venkatesh360/Hulu_clone-Frontend)
-Built a dynamic frontend using Next.js, implementing server-side and client-side rendering. Gained experience in API integration and modern web development practices.
+- 🎓 Graduated from **Jorhat Institute of Science and Technology**
+- 🔧 Full-stack development enthusiast (Frontend + Backend)
+- 🧪 Working as a **Research Assistant Programmer** (Digital Populism project)
+- 💭 Exploring **Snowflake**, **Django**, and **Cloud Engineering**
+- 🧩 Solved over **150+ LeetCode** problems and counting
 
 ---
 
 ## 🧰 Tech Stack
 
+### 👨‍💻 Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### ⚙️ Frameworks & Tools
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
+
+### ☁️ Cloud & Databases
+![Snowflake](https://img.shields.io/badge/-Snowflake-56B9DA?style=flat&logo=snowflake)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 
 ---
 
-## 📫 Let's Connect
+## 📊 GitHub Stats
 
-- [LinkedIn](https://www.linkedin.com/in/venkatesh-kashyap-3628481b1)
-- [Facebook](https://www.facebook.com/profile.php?id=100008902411278)
-
-I'm always open to discussing new opportunities, collaborations, or just chatting about tech. Feel free to reach out!
+![Venkatesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkatesh360&show_icons=true&theme=radical&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkatesh360&layout=compact&theme=radical)
 
 ---
 
-*Note: This README is a snapshot of my current endeavors and skills. As I continue to learn and grow, this page will evolve to reflect my journey.*
+## 📬 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-Venkatesh%20Kashyap-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/venkatesh-kashyap23)  
+[![Gmail](https://img.shields.io/badge/-venkateshkashyap23@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:venkateshkashyap23@gmail.com)
+
+---
+
+> _“Code never lies, comments sometimes do.” – Ron Jeffries_
+
